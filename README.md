@@ -24,5 +24,5 @@ Things you may want to cover:
 * ...
 
 
-Complete Ruby on Rails Course
+First test repo on the Complete Ruby on Rails Course by Mashrur Hossain
 
